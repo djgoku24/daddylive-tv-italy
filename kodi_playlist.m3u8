@@ -55,6 +55,16 @@ http://tvit.leicaflorianrobert.dev/discovery/dmax/stream.m3u8
 #EXTINF:55 tvg-id="mediaset-extra" tvg-name="Mediaset Extra" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=120&theme=dark" radio="" group-title="mediaset", Mediaset Extra
 http://tvit.leicaflorianrobert.dev/mediaset/mediaset-extra/stream.m3u8
 
+#EXTINF:66 tvg-id="radio-105" tvg-name="Radio 105" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/460/logo?width=120&theme=dark" radio="" group-title="mediaset", Radio 105
+http://tvit.leicaflorianrobert.dev/mediaset/radio-105/stream.m3u8
+#EXTINF:67 tvg-id="r101" tvg-name="R101" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/463/logo?width=120&theme=dark" radio="" group-title="mediaset", Radio 101
+http://tvit.leicaflorianrobert.dev/mediaset/r101/stream.m3u8
+
+#EXTINF:-1 tvg-id="rtl 102.5" tvg-name="Rtl 102.5" tvg-shift="" tvg-logo=https://api.superguidatv.it/v1/channels/243/logo?width=120&theme=light, Rtl 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="rtl 102.5 traffic" tvg-name="Rtl 102.5 Traffic" tvg-shift="" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvTFAgFJtbchPsgHxLufsuTp2XgFltJsKFA&s, Rtl 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="SkyUno(src01).it" tvg-name="Sky UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Italy",Sky UNO Italy
 https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
