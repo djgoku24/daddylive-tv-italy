@@ -1,0 +1,117 @@
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
+
+#EXTINF:1 tvg-id="rai-1" tvg-name="Rai 1" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/217/logo?width=120&theme=dark" radio="" group-title="rai", Rai 1
+http://tvit.leicaflorianrobert.dev/rai/rai-1/stream.m3u8
+#EXTINF:2 tvg-id="rai-2" tvg-name="Rai 2" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/218/logo?width=120&theme=dark" radio="" group-title="rai", Rai 2
+http://tvit.leicaflorianrobert.dev/rai/rai-2/stream.m3u8
+#EXTINF:3 tvg-id="rai-3" tvg-name="Rai 3" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/219/logo?width=120&theme=dark" radio="" group-title="rai", Rai 3
+http://tvit.leicaflorianrobert.dev/rai/rai-3/stream.m3u8
+#EXTINF:4 tvg-id="rete-4" tvg-name="Rete 4" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" radio="" group-title="mediaset", Rete 4
+http://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
+#EXTINF:5 tvg-id="canale-5" tvg-name="Canale 5" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=120&theme=dark" radio="" group-title="mediaset", Canale 5
+http://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
+#EXTINF:6 tvg-id="italia-1" tvg-name="Italia 1" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" radio="" group-title="mediaset", Italia 1
+http://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
+#EXTINF:7 tvg-id="la7" tvg-name="La7" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/253/logo?width=120&theme=dark" radio="" group-title="la7", La7
+http://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8
+#EXTINF:8 tvg-id="tv8" tvg-name="TV8" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=120&theme=dark" radio="" group-title="sky", TV8
+http://tvit.leicaflorianrobert.dev/sky/tv8/stream.m3u8
+#EXTINF:9 tvg-id="nove" tvg-name="Nove" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/238/logo?width=120&theme=dark" radio="" group-title="discovery", Nove
+http://tvit.leicaflorianrobert.dev/discovery/nove/stream.m3u8
+#EXTINF:20 tvg-id="20" tvg-name="20" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/443/logo?width=120&theme=dark" radio="" group-title="mediaset", Mediaset 20
+http://tvit.leicaflorianrobert.dev/mediaset/20/stream.m3u8
+#EXTINF:21 tvg-id="rai-4" tvg-name="Rai 4" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/220/logo?width=120&theme=dark" radio="" group-title="rai", Rai 4
+http://tvit.leicaflorianrobert.dev/rai/rai-4/stream.m3u8
+#EXTINF:22 tvg-id="iris" tvg-name="Iris" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/192/logo?width=120&theme=dark" radio="" group-title="mediaset", Iris
+http://tvit.leicaflorianrobert.dev/mediaset/iris/stream.m3u8
+#EXTINF:24 tvg-id="rai-movie" tvg-name="Rai Movie" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/229/logo?width=120&theme=dark" radio="" group-title="rai", Rai Movie
+http://tvit.leicaflorianrobert.dev/rai/rai-movie/stream.m3u8
+#EXTINF:26 tvg-id="cielo" tvg-name="Cielo" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=120&theme=dark" radio="" group-title="sky", Cielo
+http://tvit.leicaflorianrobert.dev/sky/cielo/stream.m3u8
+#EXTINF:27 tvg-id="twenty-seven" tvg-name="Twenty Seven" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=120&theme=dark" radio="" group-title="mediaset", Twenty Seven
+http://tvit.leicaflorianrobert.dev/mediaset/twenty-seven/stream.m3u8
+#EXTINF:29 tvg-id="la7d" tvg-name="La7d" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" radio="" group-title="la7", La7d
+http://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8
+#EXTINF:30 tvg-id="la-5" tvg-name="La 5" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" radio="" group-title="mediaset", La 5
+http://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
+#EXTINF:31 tvg-id="real-time" tvg-name="Real Time" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/255/logo?width=120&theme=dark" radio="" group-title="discovery", Real Time
+http://tvit.leicaflorianrobert.dev/discovery/real-time/stream.m3u8
+#EXTINF:34 tvg-id="cine34" tvg-name="Cine34" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=120&theme=dark" radio="" group-title="mediaset", Cine34
+http://tvit.leicaflorianrobert.dev/mediaset/cine34/stream.m3u8
+#EXTINF:35 tvg-id="focus" tvg-name="Focus" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/249/logo?width=120&theme=dark" radio="" group-title="mediaset", Focus
+http://tvit.leicaflorianrobert.dev/mediaset/focus/stream.m3u8
+#EXTINF:39 tvg-id="top-crime" tvg-name="Top Crime" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/193/logo?width=120&theme=dark" radio="" group-title="mediaset", Top Crime
+http://tvit.leicaflorianrobert.dev/mediaset/top-crime/stream.m3u8
+#EXTINF:40 tvg-id="boing" tvg-name="Boing" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/195/logo?width=120&theme=dark" radio="" group-title="mediaset", Boing
+http://tvit.leicaflorianrobert.dev/mediaset/boing/stream.m3u8
+#EXTINF:46 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/196/logo?width=120&theme=dark" radio="" group-title="mediaset", Cartoonito
+http://tvit.leicaflorianrobert.dev/mediaset/cartoonito/stream.m3u8
+#EXTINF:49 tvg-id="italia-2" tvg-name="Italia 2" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/191/logo?width=120&theme=dark" radio="" group-title="mediaset", Italia 2
+http://tvit.leicaflorianrobert.dev/mediaset/italia-2/stream.m3u8
+#EXTINF:51 tvg-id="tgcom24" tvg-name="Tgcom24" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=120&theme=dark" radio="" group-title="mediaset", Tgcom 24
+http://tvit.leicaflorianrobert.dev/mediaset/tgcom24/stream.m3u8
+#EXTINF:52 tvg-id="dmax" tvg-name="DMAX" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/256/logo?width=120&theme=dark" radio="" group-title="discovery", DMAX
+http://tvit.leicaflorianrobert.dev/discovery/dmax/stream.m3u8
+#EXTINF:55 tvg-id="mediaset-extra" tvg-name="Mediaset Extra" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=120&theme=dark" radio="" group-title="mediaset", Mediaset Extra
+http://tvit.leicaflorianrobert.dev/mediaset/mediaset-extra/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="SkyUno(src01).it" tvg-name="Sky UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Italy",Sky UNO Italy
+https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkySerie(src01).it" tvg-name="Sky Serie Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-serie-it.png" group-title="Italy",Sky Serie Italy
+https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaUno(src01).it" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno Italy
+https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaAction(src01).it" tvg-name="Sky Cinema Action Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-action-it.png" group-title="Italy",Sky Cinema Action Italy
+https://xyzdddd.mizhls.ru/lb/premium861/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaCollection(src01).it" tvg-name="Sky Cinema Collection Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-collection-it.png" group-title="Italy",Sky Cinema Collection Italy
+https://xyzdddd.mizhls.ru/lb/premium859/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaComedy(src01).it" tvg-name="Sky Cinema Comedy Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-comedy-it.png" group-title="Italy",Sky Cinema Comedy Italy
+https://xyzdddd.mizhls.ru/lb/premium862/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaDrama(src01).it" tvg-name="Sky Cinema Drama Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-drama-it.png" group-title="Italy",Sky Cinema Drama Italy
+https://xyzdddd.mizhls.ru/lb/premium867/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily(src01).it" tvg-name="Sky Cinema Family Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-family-it.png" group-title="Italy",Sky Cinema Family Italy
+https://xyzdddd.mizhls.ru/lb/premium865/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaRomance(src01).it" tvg-name="Sky Cinema Romance Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-romance-it.png" group-title="Italy",Sky Cinema Romance Italy
+https://xyzdddd.mizhls.ru/lb/premium864/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkyCinemaSuspense(src01).it" tvg-name="Sky Cinema Suspense Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-suspense-it.png" group-title="Italy",Sky Cinema Suspense Italy
+https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkySportF1207478(src01).it" tvg-name="Sky Sport F1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1 Italy
+https://xyzdddd.mizhls.ru/lb/premium577/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkySportMotoGP(src01).it" tvg-name="Sky Sport MotoGPv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGPv
+https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkySportUno(src01).it" tvg-name="Sky Sport UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport UNO Italy
+https://xyzdddd.mizhls.ru/lb/premium461/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="SkySportCalcio(src01).it" tvg-name="Sky Sport Calcio Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio Italy
+https://xyzdddd.mizhls.ru/lb/premium870/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 1 (251) Italy
+https://xyzdddd.mizhls.ru/lb/premium871/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 2 (252) Italy
+https://xyzdddd.mizhls.ru/lb/premium872/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 3 (253) Italy
+https://xyzdddd.mizhls.ru/lb/premium873/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Calcio 7 (257) Italy
+https://xyzdddd.mizhls.ru/lb/premium877/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="Eurosport2103073(src01).it" tvg-name="EuroSport 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-1-hd-nl.png" group-title="Italy",EuroSport 1 Italy
+https://xyzdddd.mizhls.ru/lb/premium878/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="Eurosport2211150(src01).it" tvg-name="EuroSport 2 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/eurosport-2-hd-nl.png" group-title="Italy",EuroSport 2 Italy
+https://xyzdddd.mizhls.ru/lb/premium879/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
