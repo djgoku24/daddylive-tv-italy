@@ -62,17 +62,17 @@ https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8|Referer=https://cookiewebplay
 https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedy Central", Comedy Central
-http://stream.mardio.link:8081/live/it-comedycentral.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEwOjI2OjE1IEFNJmhhc2hfdmFsdWU9SG5yQWtoN2pVdXJyaDdTaS8xZTVudz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDU1MTc1MjY0
+http://stream.mardio.link:8081/live/it-comedycentral.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEyOjAzOjU3IFBNJmhhc2hfdmFsdWU9a3p0dTBKcFB0Q2hnTXc1dXQ1M0Z0QT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDYxMDM3Nzg5
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang",Boomerang
-http://stream.mardio.link:8081/live/it-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEwOjI2OjUwIEFNJmhhc2hfdmFsdWU9bjlKeml4Q1ZJTGpob1Z4d0t5VG1pQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDU1MjEwMzQw
+http://stream.mardio.link:8081/live/it-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEyOjA0OjQ2IFBNJmhhc2hfdmFsdWU9R0tXdHU3Nkc1WllOdDhmeU5zSldIdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDYxMDg2MjYz
 
 
 #EXTINF:-1 tvg-id="SkyCinemaUno(src01).it" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno Italy
 https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="SkyCinemaDue" tvg-name="Sky Cinema Due",Sky Cinema Due
-http://stream.mardio.link:8081/live/it-sky-cinema-due.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEwOjI1OjEwIEFNJmhhc2hfdmFsdWU9UHB4bXZMdDhBazdLOXZReWFDL1JBdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDU1MTEwODk2 
+http://stream.mardio.link:8081/live/it-sky-cinema-due.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEyOjA1OjM1IFBNJmhhc2hfdmFsdWU9MS8wN3RUQzRwOTNqVWJWZlc1TGdGQT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDYxMTM1NjU2
 
 #EXTINF:-1 tvg-id="SkyCinemaAction(src01).it" tvg-name="Sky Cinema Action Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-action-it.png" group-title="Italy",Sky Cinema Action Italy
 https://xyzdddd.mizhls.ru/lb/premium861/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
