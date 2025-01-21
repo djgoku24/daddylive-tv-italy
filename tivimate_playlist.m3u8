@@ -64,7 +64,7 @@ https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8|Referer=https://cookiewebplay
 #EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedy Central", Comedy Central
 http://stream.mardio.link:8081/live/it-comedycentral.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEyOjQxOjAxIFBNJmhhc2hfdmFsdWU9dU5OUGszT1J4d0MxSGxiRHE3Q3ZTUT09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDYzMjYxNjcx
 
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang". Boomerang
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang",Boomerang
 http://stream.mardio.link:8081/live/it-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDI1IDEyOjQxOjI4IFBNJmhhc2hfdmFsdWU9eWtsNTV4YndSZ2tBcHNLcXV1YnBtdz09JnZhbGlkbWludXRlcz0yMCZpZD0xNzM3NDYzMjg4Njc2
 
 #EXTINF:-1 tvg-id="SkyCinemaUno(src01).it" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno Italy
