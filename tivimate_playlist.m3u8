@@ -78,6 +78,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 #EXTINF:-1 tvg-id="rtl 102.5 traffic" tvg-name="Rtl 102.5 Traffic" tvg-shift="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvTFAgFJtbchPsgHxLufsuTp2XgFltJsKFA&s", Rtl 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
+#EXTINF:-1 tvg-id="4funtv" tvg-name="4 Fun Tv" tvg-shift="" tvg-logo="https://e7.pngegg.com/pngimages/132/857/png-clipart-4fun-tv-television-4fun-free-to-air-4fun-media-others-miscellaneous-purple.png", 4 Fun TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
 #EXTINF:-1 tvg-id="SkyUno(src01).it" tvg-name="Sky UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Italy",Sky UNO Italy
 https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
