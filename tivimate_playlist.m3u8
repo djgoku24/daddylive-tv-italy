@@ -81,6 +81,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/p
 #EXTINF:-1 tvg-id="rairadio2visualradio" tvg-name="Rai Radio 2 Visual Radio" tvg-shift="" tvg-logo="https://camo.githubusercontent.com/4ead901d63bfe787033ba93a03e2912c2010ed947a0ff506de7ad0d9e365fb54/68747470733a2f2f692e696d6775722e636f6d2f6e5642657430682e706e67", Rai Radio 2 Visual Radio
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 
+#EXTINF:-1 tvg-id="rdssocialtv" tvg-name="RDS Social TV" tvg-shift="" tvg-logo="https://camo.githubusercontent.com/32d501db3e83f47a16e390a82dc289128c4fd277a4aec2067f950f51204bbf1d/68747470733a2f2f692e696d6775722e636f6d2f545936466871492e706e67", RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
 #EXTINF:-1 tvg-id="4funtv" tvg-name="4 Fun Tv" tvg-shift="" tvg-logo="https://i.imgur.com/3wugqo7.png", 4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
