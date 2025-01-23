@@ -154,3 +154,21 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vintageradiotv" tvg-name="Vintage Radio Tv" tvg-shift="" tvg-logo="https://camo.githubusercontent.com/244383abd3f591c637c36f3ee4d8eb54457d073464d64e28fb4bec1450f5303e/68747470733a2f2f692e696d6775722e636f6d2f6e334c74424e542e6a7067", Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="film-plutotv" tvg-name="Film – Pluto TV" tvg-shift="" tvg-logo="https://camo.githubusercontent.com/4939f10ef6db10bc86aeb8ab79bccc6af449e76c04d7926a10b27e26b69f927b/68747470733a2f2f692e696d6775722e636f6d2f516546633746332e706e67", Film – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="filmazione-plutotv" tvg-name="Film Azione – Pluto TV" tvg-shift="" tvg-logo="", Film Azione – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="filmazione-plutotv" tvg-name="Film Azione – Pluto TV" tvg-shift="" tvg-logo="", Film Azione – Pluto TV
+
+
+#EXTINF:-1 tvg-id="film-plutotv" tvg-name="Film – Pluto TV" tvg-shift="" tvg-logo=
+
+
+#EXTINF:-1 tvg-id="film-plutotv" tvg-name="Film – Pluto TV" tvg-shift="" tvg-logo=
+
+
+
+
