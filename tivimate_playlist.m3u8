@@ -128,6 +128,9 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="rtl 102.5" tvg-name="Rtl 102.5" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/243/logo?width=120&theme=light", Rtl 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
+#EXTINF:-1 tvg-id="rtl 102.5 caliente" tvg-name="Rtl 102.5 Traffic" tvg-shift="" tvg-logo="", Rtl 102.5 Caliente
+https://bharadwajpro.github.io/m3u8-player/player/#https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+
 #EXTINF:-1 tvg-id="rtl 102.5 traffic" tvg-name="Rtl 102.5 Traffic" tvg-shift="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvTFAgFJtbchPsgHxLufsuTp2XgFltJsKFA&s", Rtl 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
