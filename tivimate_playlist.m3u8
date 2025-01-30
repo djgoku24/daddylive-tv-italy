@@ -88,8 +88,14 @@ https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8|Referer=https://cookiewebplay
 #EXTINF:-1 tvg-id="SkySportF1207478(src01).it" tvg-name="Sky Sport F1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1 Italy
 https://xyzdddd.mizhls.ru/lb/premium577/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
+#EXTINF:-1 tvg-id="SkySportMotoGP(src01).it" tvg-name="Sky Sport MotoGPv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP
+https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
+
 #EXTINF:-1 tvg-id="SkySportUno(src01).it" tvg-name="Sky Sport UNO Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport UNO Italy
 https://xyzdddd.mizhls.ru/lb/premium461/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="Sky.Sport24.it" tvg-name="Sky Sport 24 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-24-it.png" group-title="Italy",Sky Sport 24 Italy
+https://xyzdddd.mizhls.ru/lb/premium869/index.m3u8|Referer=https%3A%2F%2Fcookiewebplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28Android+9%3B+Tablet%3B+rv%3A62.0%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F72.0.1388.65+Safari%2F537.36&Origin=https%3A%2F%2Fcookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="SkySportCalcio(src01).it" tvg-name="Sky Sport Calcio Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio Italy
 https://xyzdddd.mizhls.ru/lb/premium870/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
