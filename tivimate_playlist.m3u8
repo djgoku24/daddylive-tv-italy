@@ -1,11 +1,10 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28nerz38hvk71xyzpe" 
-        url-tvg="http://epg-guide,com/wltv.xz"
 
 #EXTINF:1 tvg-id="Rai1(src01).it" tvg-name="Rai 1" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/217/logo?width=120&theme=dark" radio="" group-title="rai", Rai 1
 http://tvit.leicaflorianrobert.dev/rai/rai-1/stream.m3u8
-#EXTINF:2 tvg-id="rai-2" tvg-name="Rai 2" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/218/logo?width=120&theme=dark" radio="" group-title="rai", Rai 2
+#EXTINF:2 tvg-id="Rai2(src01).it" tvg-name="Rai 2" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/218/logo?width=120&theme=dark" radio="" group-title="rai", Rai 2
 http://tvit.leicaflorianrobert.dev/rai/rai-2/stream.m3u8
-#EXTINF:3 tvg-id="rai-3" tvg-name="Rai 3" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/219/logo?width=120&theme=dark" radio="" group-title="rai", Rai 3
+#EXTINF:3 tvg-id="Rai3(src01).it" tvg-name="Rai 3" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/219/logo?width=120&theme=dark" radio="" group-title="rai", Rai 3
 http://tvit.leicaflorianrobert.dev/rai/rai-3/stream.m3u8
 #EXTINF:4 tvg-id="rete-4" tvg-name="Rete 4" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" radio="" group-title="mediaset", Rete 4
 http://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
