@@ -28,7 +28,7 @@ http://tvit.leicaflorianrobert.dev/mediaset/iris/stream.m3u8
 http://tvit.leicaflorianrobert.dev/rai/rai-movie/stream.m3u8
 #EXTINF:26 tvg-id="cielo" tvg-name="Cielo" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=120&theme=dark" radio="" group-title="sky", Cielo
 http://tvit.leicaflorianrobert.dev/sky/cielo/stream.m3u8
-#EXTINF:27 tvg-id="27TwentySeven(Italian).it" tvg-name="Twenty Seven" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=120&theme=dark" radio="" group-title="mediaset", Twenty Seven
+#EXTINF:27 tvg-id="27TwentySeven(Italian).it" tvg-name="27 TwentySeven" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=120&theme=dark" radio="" group-title="mediaset", 27 TwentySeven
 http://tvit.leicaflorianrobert.dev/mediaset/twenty-seven/stream.m3u8
 #EXTINF:29 tvg-id="la7d" tvg-name="La7d" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" radio="" group-title="la7", La7d
 http://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8
