@@ -85,10 +85,10 @@ https://xyzdddd.mizhls.ru/lb/premium864/index.m3u8|Referer=https://cookiewebplay
 #EXTINF:-1 tvg-id="SkyCinemaSuspense(src01).it" tvg-name="Sky Cinema Suspense Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-suspense-it.png" group-title="Italy",Sky Cinema Suspense Italy
 https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="SkyCinemauno+24(src01).it" tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="" group-title="Italy",Sky Cinema Uno +24 Italy
+#EXTINF:-1 tvg-id="SkyCinemaUno+24(src01).it" tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="" group-title="Italy",Sky Cinema Uno +24 Italy
 https://xyzdddd.mizhls.ru/lb/premium863/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
-#EXTINF:-1 tvg-id="Skysportmotogp(src01).it" tvg-name="Sky sport motogp Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="SSkySportMotoGP(src01).it" tvg-name="Sky sport motogp Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP Italy
 https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="SkySportF1207478(src01).it" tvg-name="Sky Sport F1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1 Italy
